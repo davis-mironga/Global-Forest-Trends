@@ -1,0 +1,9 @@
+﻿# Python and system ignores
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
