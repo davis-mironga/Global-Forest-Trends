@@ -153,9 +153,8 @@ Global-Forest-Trends/
 
 ##  Author
 
-**Susan Gathunga**  
+**Davis Mironga**  
 _Data Analyst | Environmental Data Projects_  
-📍 Nairobi, Kenya  
 
 ---
 
@@ -163,7 +162,7 @@ _Data Analyst | Environmental Data Projects_
 
 - Python: Pandas, NumPy, Matplotlib, Seaborn
 - Notebook: Jupyter
-- Visualization: Power BI (optional)
+- Visualization: Power BI
 - Version Control: Git & GitHub
 
 ---
@@ -176,7 +175,7 @@ _Data Analyst | Environmental Data Projects_
 
 ---
 
-## 📸 Figure Gallery
+## Figure Gallery
 
 _Selected outputs from the analysis (rendered from `outputs/figures/`)._
 
